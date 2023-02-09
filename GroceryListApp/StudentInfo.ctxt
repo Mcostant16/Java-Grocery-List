@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StudentInfo
+comment0.text=\n\ Write\ a\ description\ of\ class\ StudentInfo\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ StudentInfoUpdate()
+comment2.params=
+comment2.target=void\ getArrayObj4()
+comment3.params=
+comment3.target=java.util.ArrayList\ GetStudentArrayList()
+comment4.params=ar
+comment4.target=void\ SetStudentArrayList(java.util.ArrayList)
+comment5.params=
+comment5.target=void\ SerializeDemo()
+comment6.params=
+comment6.target=void\ DeserializeDemo()
+numComments=7
